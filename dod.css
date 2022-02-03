@@ -1,0 +1,13 @@
+#Título{
+  background: linear-gradient(#B39DDB 0%, #0288D1 100%);
+  
+}
+#Cuerpo{
+  background: linear-gradient(#1A237E 0%, #78FF03 100%);  
+}body{
+    text-align: center;
+    font-size: 15px;font-family: 'Oswald', sans-serif;
+}
+#Videos{
+    background-color: chocolate;font-size: 20px;
+}
